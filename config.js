@@ -1,1 +1,1 @@
-const PORT = 5000
+const mode = 'payment';
